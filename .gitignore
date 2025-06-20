@@ -1,12 +1,4 @@
-# Python
-*.pyc
-__pycache__/
-env/
-venv/
-
-# Django
-db.sqlite3
-
-# OS files
-.DS_Store
-Thumbs.db
+__pycache__/ 
+venv/ 
+db.sqlite3 
+*.pkl 
